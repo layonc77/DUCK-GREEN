@@ -9,7 +9,7 @@ modules/build_temp.py
 output/
 *.exe
 *.bin
-pycache/
+__pycache__/
 *.pyc
 venv/
 .env
