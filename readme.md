@@ -39,17 +39,3 @@ chmod +x setup.sh
 ## ⚠️ Aviso Legal
 Este software foi desenvolvido apenas para fins educacionais e testes de segurança autorizados. O uso desta ferramenta em sistemas sem permissão explícita é ilegal.
 ```
-
----
-
-### ✅ Checklist Final do Repositório:
-
-Confirma se a tua pasta tem estes **5 componentes**:
-
-1.  `main.py` (O menu principal)
-2.  `setup.sh` (O instalador que acabámos de falar)
-3.  `.gitignore` (Para não subir lixo ao Git)
-4.  `README.md` (A documentação acima)
-5.  `modules/` (Pasta contendo `receptor.py` e `agente_template.py`)
-
-Agora é só dar o `git push` e o teu projeto **DUCK GREEN** está oficialmente no mapa! Precisas de ajuda com mais algum detalhe ou já estás pronto para o primeiro teste?
