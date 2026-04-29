@@ -39,5 +39,5 @@ def receive():
 if __name__ == '__main__':
     os.system('clear')
     print(f"{GREEN}DUCK GREEN - RECEPTOR ATIVO NA PORTA 8080{NC}")
-    # Inicia o servidor na porta 8080 conforme o manual [cite: 31]
+
     app.run(host='0.0.0.0', port=8080)
